@@ -70,7 +70,7 @@ const Home = () => {
                     Creative Activities
                 </Typography>
                 <Typography variant="body1" mb={4}>
-                    Explore a world of creativity through our engaging and innovative activities.
+                    Explore a world of creativity through our engaging and innovative activities....
                 </Typography>
                 <Grid container spacing={4}>
                     {[1, 2, 3].map((item) => (
